@@ -33,8 +33,7 @@ This plugin is used for increase media upload file size.
 
 
 ## Changelog
+1.0.0  * First public release.
 
-
-## Upgrade notice 
-
-Automatic updates should work great for you. 
+## Upgrade Notice
+1.0.0 Added plugin support 
